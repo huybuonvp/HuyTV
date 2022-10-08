@@ -144,3 +144,15 @@ http://188.166.214.111:8000/4f
 
 #EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="kkidshd" tvg-logo="https://img.vnmedia.xyz/logo/kkidshd.jpg",K+Kids HD - Nguồn Lậu Của Ai Đó
 http://188.166.214.111:8000/5f
+
+
+
+#--*.*--KẸO--*.*--#
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭|Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", Kẹo Phim HD
+http://20.194.5.67:1708/live/kcine
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭|Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", Kẹo Cuộc Sống HD
+http://20.194.5.67:1708/live/klife
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭|Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", Kẹo thể thao 1 HD
+http://20.194.5.67:1708/live/kthethao1
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭|Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", Kẹo thể thao 2 HD
+http://20.194.5.67:1708/live/kthethao2

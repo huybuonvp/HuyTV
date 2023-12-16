@@ -5,7 +5,6 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"kty":"oct","kid":"M0RVZneImQCqu8zd7v8RIg","k":"M0RVZneImQCqu8zd7v8RIg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ESIzRFVmd4iZAKq7zN3u_w","k":"ESIzRFVmd4iZAKq7zN3u_w"},{"kty":"oct","kid":"IjNEVWZ3iJkAqrvM3e7_EQ","k":"IjNEVWZ3iJkAqrvM3e7_EQ"},{"kty":"oct","kid":"M0RVZneImQCqu8zd7v8RIg","k":"M0RVZneImQCqu8zd7v8RIg"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36 Firefox/73.0
-https://hbolive.kplus.vn/__token__exp%3D1702747203~acl%3D%2Fbpk-tv%2Fprod_kplus_sport2hd%2Fdefault%2F%2A~id%3Dd5f4ee2c-5d6e-4415-b7bf-177c48c43311~hmac%3De805e5bbc25e739c83704888719d13966e855faf8c0015198fbf2386cf1718f9/bpk-tv/prod_kplus_sport2hd/default/index.mpd?maxrate=3000000
-
+https://hbolive.kplus.vn/__token__exp%3D1702783214~acl%3D%2Fbpk-tv%2Fprod_on_sports%2Fdefault%2F%2A~id%3D2ca17437-6f1b-46a5-b6b5-6bf8f62978f0~hmac%3Daee7c14764f4e291e825f39acc41c0baebd727ec92bb35fec8449dc9977b212f/bpk-tv/prod_on_sports/default/index.mpd?maxrate=3000000&ck=eyIxMTIyMzM0NDU1NjY3Nzg4OTkwMGFhYmJjY2RkZWVmZiI6IjExMjIzMzQ0NTU2Njc3ODg5OTAwYWFiYmNjZGRlZWZmIiwiMjIzMzQ0NTU2Njc3ODg5OTAwYWFiYmNjZGRlZWZmMTEiOiIyMjMzNDQ1NTY2Nzc4ODk5MDBhYWJiY2NkZGVlZmYxMSIsIjMzNDQ1NTY2Nzc4ODk5MDBhYWJiY2NkZGVlZmYxMTIyIjoiMzM0NDU1NjY3Nzg4OTkwMGFhYmJjY2RkZWVmZjExMjIifQ%3D%3D

@@ -2,8 +2,10 @@
 # EXTM3U url-tvg = "http://bit.ly/epgviet"
 #MyKênh K+ by TranVie
 #EXTINF:-1 tvg-id="ksport1hd" group-title="Kênh K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/32/K%2B_Sport_1_HD_2021.png/revision/latest/scale-to-width-down/2021?cb=20220127022232&path-prefix=vi", K+ Sport1 FHD (MyTV)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"kty":"oct","kid":"M0RVZneImQCqu8zd7v8RIg","k":"M0RVZneImQCqu8zd7v8RIg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36 Firefox/73.0
 https://hbolive.kplus.vn/__token__exp%3D1702747203~acl%3D%2Fbpk-tv%2Fprod_kplus_sport2hd%2Fdefault%2F%2A~id%3Dd5f4ee2c-5d6e-4415-b7bf-177c48c43311~hmac%3De805e5bbc25e739c83704888719d13966e855faf8c0015198fbf2386cf1718f9/bpk-tv/prod_kplus_sport2hd/default/index.mpd?maxrate=3000000
 

@@ -1,9 +1,1 @@
-#----------------------------------------------------------------------------------------------------------------------------------------------------------
-# EXTM3U url-tvg = "http://bit.ly/epgviet"
-#MyKênh K+ by TranVie
-#EXTINF:-1 tvg-id="ksport1hd" group-title="Kênh K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/32/K%2B_Sport_1_HD_2021.png/revision/latest/scale-to-width-down/2021?cb=20220127022232&path-prefix=vi", K+ Sport1 FHD (MyTV)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"kty":"oct","kid":"M0RVZneImQCqu8zd7v8RIg","k":"M0RVZneImQCqu8zd7v8RIg"}],"type":"temporary"}
-https://hbolive.kplus.vn/__token__exp%3D1702783214~acl%3D%2Fbpk-tv%2Fprod_on_sports%2Fdefault%2F%2A~id%3D2ca17437-6f1b-46a5-b6b5-6bf8f62978f0~hmac%3Daee7c14764f4e291e825f39acc41c0baebd727ec92bb35fec8449dc9977b212f/bpk-tv/prod_on_sports/default/dash/prod_on_sports-video=2662400-1021661298605.dash?ck=eyIxMTIyMzM0NDU1NjY3Nzg4OTkwMGFhYmJjY2RkZWVmZiI6IjExMjIzMzQ0NTU2Njc3ODg5OTAwYWFiYmNjZGRlZWZmIiwiMjIzMzQ0NTU2Njc3ODg5OTAwYWFiYmNjZGRlZWZmMTEiOiIyMjMzNDQ1NTY2Nzc4ODk5MDBhYWJiY2NkZGVlZmYxMSIsIjMzNDQ1NTY2Nzc4ODk5MDBhYWJiY2NkZGVlZmYxMTIyIjoiMzM0NDU1NjY3Nzg4OTkwMGFhYmJjY2RkZWVmZjExMjIifQ%3D%3D&manifest_type=mpd
+https://hbolive.kplus.vn/__token__exp%3D1702785164~acl%3D%2Fbpk-tv%2Fprod_kplus_sport1hd%2Fdefault%2F%2A~id%3Dda8063f9-94c0-4355-ae31-9a69ccfbb604~hmac%3D136d7fb6c3fe5a333a9adac839db5788fb77dcae2c59f4ce2708b916ca7bc213/bpk-tv/prod_kplus_sport1hd/default/index.mpd?maxrate=3000000|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F120.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fxem.kplus.vn%2F
